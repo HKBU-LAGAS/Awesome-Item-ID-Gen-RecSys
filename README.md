@@ -22,6 +22,11 @@
       - [Textual IDs](#textual-ids)
       - [Multi-facet IDs](#multi-facet-ids)
       - [Semantic IDs](#semantic-ids)
+    - [SID Tokenization](#sid-tokenization)
+      - [Cluster-based Tokenizers](#cluster-based-tokenizers)
+      - [Codebook-based Tokenizers](#codebook-based-tokenizers)
+      - [Other Tokenizers](#other-tokenizers)
+      - [Augmentation](#augmentation)
   - [👫 Alignment of Item IDs](#-alignment-of-item-ids)
     - [Alignment in LLM-as-Gen-RecSys](#alignment-in-llm-as-gen-recsys)
       - [Collaborative Alignment](#collaborative-alignment)
@@ -94,8 +99,53 @@
 * (FORGE) **FORGE: Forming Semantic Identifiers for Generative Retrieval in Industrial Datasets.** arXiv 2025. [[paper](https://arxiv.org/abs/2509.20904)][[code](https://github.com/selous123/al_sid)] ![GitHub Repo stars](https://img.shields.io/github/stars/selous123/al_sid)
 * (PLUM) **PLUM: Adapting Pre-trained Language Models for Industrial-scale Generative Recommendations.** arXiv 2025. [[paper](https://arxiv.org/abs/2510.07784)]
 
-### 👫 Alignment of Item IDs 
+#### SID Tokenization
 
+##### Cluster-based Tokenizers 
+* (CID) **How to Index Item IDs for Recommendation Foundation Models.** SIGIR 2023. [[paper](https://arxiv.org/pdf/2305.06569)] [[code](https://github.com/Wenyueh/LLM-RecSys-ID)] ![GitHub Repo stars](https://img.shields.io/github/stars/Wenyueh/LLM-RecSys-ID)
+* (SEATER) **Generative Retrieval with Semantic Tree-Structured Item Identifiers via Contrastive Learning.** arXiv 2023. [[paper](https://arxiv.org/pdf/2309.13375)] [[code](https://github.com/Ethan00Si/SEATER_Generative_Retrieval)] ![GitHub Repo stars](https://img.shields.io/github/stars/Ethan00Si/SEATER_Generative_Retrieval)
+* (ColaRec) **Content-Based Collaborative Generation for Recommender Systems.** CIKM 2024. [[paper](https://arxiv.org/abs/2403.18480)][[code](https://github.com/Junewang0614/ColaRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/Junewang0614/ColaRec)
+* (EAGER) **EAGER: Two-Stream Generative Recommender with Behavior-Semantic Collaboration.** KDD 2024. [[paper](https://dl.acm.org/doi/10.1145/3637528.3671775)][[code](https://github.com/yewzz/EAGER)] ![GitHub Repo stars](https://img.shields.io/github/stars/yewzz/EAGER)
+##### Codebook-based Tokenizers 
+* (VQ-Rec) **Learning vector-quantized item representation for transferable sequential recommenders.** WWW 2023. [[paper](https://arxiv.org/abs/2210.12316)][[code](https://github.com/RUCAIBox/VQ-Rec)] ![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/VQ-Rec)
+* (Tiger) **Recommender Systems with Generative Retrieval.** NeurIPS 2023. [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/20dcab0f14046a5c6b02b61da9f13229-Abstract-Conference.html)] [[code](https://github.com/EdoardoBotta/RQ-VAE-Recommender)] ![GitHub Repo stars](https://img.shields.io/github/stars/EdoardoBotta/RQ-VAE-Recommender)
+* (CoST) **CoST: Contrastive Quantization Based Semantic Tokenization for Generative Recommendation** RecSys 2024. [[paper](https://arxiv.org/abs/2404.14774)]
+* (MBGen) **Multi-Behavior Generative Recommendation** CIKM 2024 [[paper](https://arxiv.org/abs/2405.16871)] [[code](https://github.com/anananan116/MBGen)] ![GitHub Repo stars](https://img.shields.io/github/stars/anananan116/MBGen)
+* (LMIndexer) **Language Models as Semantic Indexers** [[paper](https://arxiv.org/abs/2310.07815)][[code](https://github.com/PeterGriffinJin/LMIndexer)]![GitHub Repo stars](https://img.shields.io/github/stars/PeterGriffinJin/LMIndexer)
+* (UIST) **Discrete Semantic Tokenization for Deep CTR Prediction** WWW 2024 [[paper](https://arxiv.org/abs/2403.08206)] [[code](https://github.com/Jyonn/SemanticTokenizer)] ![GitHub Repo stars](https://img.shields.io/github/stars/Jyonn/SemanticTokenizer)
+* (ETEGRec) **Generative Recommender with End-to-End Learnable Item Tokenization** SIGIR 2025 [[paper](https://arxiv.org/abs/2409.05546)] [[code](https://github.com/RUCAIBox/ETEGRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/ETEGRec)
+* (COBRA) **Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations** arXiv 2025. [[paper](https://arxiv.org/abs/2503.02453)]
+* (BBQRec) **BBQRec: Behavior-Bind Quantization for Multi-Modal Sequential Recommendation** arXiv 2025. [[paper](https://arxiv.org/abs/2504.06636)]
+* (UTGRec) **Universal Item Tokenization for Transferable Generative Recommendation.** arXiv 2025. [[paper](https://arxiv.org/abs/2504.04405)][[code](https://github.com/RUCAIBox/UTGRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/UTGRec)
+* (DiscRec) **DiscRec: Disentangled Semantic-Collaborative Modeling for Generative Recommendation.** arXiv 2025. [[paper](https://arxiv.org/pdf/2506.15576)] [[code](https://github.com/Ten-Mao/DiscRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/Ten-Mao/DiscRec)
+* (MMQ) **MMQ: Multimodal Mixture-of-Quantization Tokenization for Semantic ID Generation and User Behavioral Adaptation** WSDM 2026 [[paper](https://arxiv.org/abs/2508.15281)]
+* (DQ-VAE) **Representation Quantization for Collaborative Filtering Augmentation** [[paper](https://arxiv.org/abs/2508.11194)]
+* (HiD-VAE) **HiD-VAE: Interpretable Generative Recommendation via Hierarchical and Disentangled Semantic IDs.** arXiv 2025. [[paper](https://arxiv.org/pdf/2508.04618)]
+* (OneLoc) **OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service** arXiv 2025. [[paper](https://arxiv.org/abs/2508.14646)]
+* (PCR-CA) **PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation** arXiv 2025 [[paper](https://arxiv.org/abs/2508.18166)]
+* (COSETTE) **Closing the Performance Gap in Generative Recommenders with Collaborative Tokenization and Efficient Modeling** Arxiv 2025 [[paper](https://arxiv.org/abs/2508.14910)]
+* (PSRQ) **Progressive Semantic Residual Quantization for Multimodal-Joint Interest Modeling in Music Recommendation** CIKM 2025 [[paper](https://arxiv.org/abs/2508.20359)]
+* (OneSearch) **Onesearch: A preliminary exploration of the unified end-to-end generative framework for e-commerce search** Arxiv 2025 [[paper](https://arxiv.org/abs/2509.03236)]
+* (MMQ-v2) **MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for Semantic IDs Learning in Recommendation** Arxiv 2025 [[paper](https://arxiv.org/abs/2510.25622)]
+* (STORE) **The Best of the Two Worlds: Harmonizing Semantic and Hash IDs for Sequential Recommendation** Arxiv 2025[[paper](https://arxiv.org/abs/2511.18805)]
+* (ReaSeq) **ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling** Arxiv 2025 [[paper](https://arxiv.org/abs/2512.21257)]
+* (HiGR) **HiGR: Efficient Generative Slate Recommendation via Hierarchical Planning and Multi-Objective Preference Alignment** [[paper](https://www.arxiv.org/abs/2512.24787)]
+##### Other Tokenizers 
+* (GPTRec) **Generative Sequential Recommendation with GPTRec.** Gen-IR @ SIGIR 2023 workshop [[paper](https://arxiv.org/abs/2306.11114)]
+* (IDGenRec) **IDGenRec: LLM-RecSys Alignment with Textual ID Learning** SIGIR 2024 [[paper](https://arxiv.org/abs/2403.19021)] [[code](https://github.com/agiresearch/IDGenRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/IDGenRec)
+* (ActionPiece) **ActionPiece: Contextually Tokenizing Action Sequences for Generative Recommendation** ICML 2025 [[paper](https://arxiv.org/abs/2502.13581)] [[code](https://github.com/google-deepmind/action_piece)] ![GitHub Repo stars](https://img.shields.io/github/stars/google-deepmind/action_piece)
+* (SETRec) **Order-Agnostic Identifier for Large Language Model-based Generative Recommendation.** SIGIR 2025. [[paper](https://dl.acm.org/doi/10.1145/3726302.3730053)] [[code](https://github.com/Linxyhaha/SETRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/Linxyhaha/SETRec)
+
+##### Augmentation 
+* (MMGRec) **MMGRec: Multimodal Generative Recommendation with Transformer Model.** arXiv 2024. [[paper](https://arxiv.org/abs/2404.16555)]
+* (LETTER) **Learnable Item Tokenization for Generative Recommendation.** CIKM 2024. [[paper](https://dl.acm.org/doi/10.1145/3627673.3679569)][[code](https://github.com/HonghuiBao2000/LETTER)] ![GitHub Repo stars](https://img.shields.io/github/stars/HonghuiBao2000/LETTER)
+* (DiscRec) **DiscRec: Disentangled Semantic-Collaborative Modeling for Generative Recommendation.** arXiv 2025. [[paper](https://arxiv.org/pdf/2506.15576)] [[code](https://github.com/Ten-Mao/DiscRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/Ten-Mao/DiscRec)
+* (COSETTE) **Closing the Performance Gap in Generative Recommenders with Collaborative Tokenization and Efficient Modeling** Arxiv 2025 [[paper](https://arxiv.org/abs/2508.14910)]
+* (PSRQ) **Progressive Semantic Residual Quantization for Multimodal-Joint Interest Modeling in Music Recommendation** CIKM 2025 [[paper](https://arxiv.org/abs/2508.20359)]
+* (OneSearch) **Onesearch: A preliminary exploration of the unified end-to-end generative framework for e-commerce search** Arxiv 2025 [[paper](https://arxiv.org/abs/2509.03236)]
+* (MMQ) **MMQ: Multimodal Mixture-of-Quantization Tokenization for Semantic ID Generation and User Behavioral Adaptation** WSDM 2026 [[paper](https://arxiv.org/abs/2508.15281)]
+* (MMQ-v2) **MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for Semantic IDs Learning in Recommendation** Arxiv 2025 [[paper](https://arxiv.org/abs/2510.25622)]
+### 👫 Alignment of Item IDs 
 #### Alignment in LLM-as-Gen-RecSys
 
 ##### Collaborative Alignment
@@ -208,4 +258,5 @@
 * (OneLoc) **OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service** arXiv 2025. [[paper](https://arxiv.org/abs/2508.14646)]
 * (PCR-CA) **PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation** arXiv 2025 [[paper](https://arxiv.org/abs/2508.18166)]
 * (Onerecv2) **OneRec-V2 Technical Report** arXiv 2025 [[paper](https://arxiv.org/abs/2508.20900)]
+
 
