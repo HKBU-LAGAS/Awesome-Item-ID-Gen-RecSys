@@ -6,7 +6,7 @@
 
 📌 Pinned
 
-
+Survey Paper: [A Survey of Item Identifiers in Generative Recommendation: Construction, Alignment, and Generation]()
 
 </div>
 
