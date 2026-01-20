@@ -6,6 +6,7 @@
 
 📌 Pinned
 
+ We are actively tracking the latest research and will keep maintaining and updating the repository. We also highly welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to create an issue or a pull request.
 #### Survey Paper: A Survey of Item Identifiers in Generative Recommendation: Construction, Alignment, and Generation
 
 [ReseachGate](https://www.researchgate.net/publication/399898960_A_Survey_of_Item_Identifiers_in_Generative_Recommendation_Construction_Alignment_and_Generation)
@@ -213,7 +214,7 @@
 * (RPG) **Generating Long Semantic IDs in Parallel for Recommendation.** KDD 2025. [[paper](https://arxiv.org/pdf/2506.05781)] [[code](https://github.com/facebookresearch/RPG_KDD2025)] ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/RPG_KDD2025)
 * (DiscRec) **DiscRec: Disentangled Semantic-Collaborative Modeling for Generative Recommendation.** arXiv 2025. [[paper](https://arxiv.org/pdf/2506.15576)] [[code](https://github.com/Ten-Mao/DiscRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/Ten-Mao/DiscRec)
 * (HiD-VAE) **HiD-VAE: Interpretable Generative Recommendation via Hierarchical and Disentangled Semantic IDs.** arXiv 2025. [[paper](https://arxiv.org/pdf/2508.04618)]
-
+* (PROMISE) **PROMISE: Process Reward Models Unlock Test-Time Scaling Laws in Generative Recommendations.** arXiv 2026. [[paper](https://arxiv.org/abs/2601.04674)]
 #### Decoding Acceleration
 
 ##### Speculative Decoding (SD)
@@ -260,7 +261,7 @@
 * (OneLoc) **OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service** arXiv 2025. [[paper](https://arxiv.org/abs/2508.14646)]
 * (PCR-CA) **PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation** arXiv 2025 [[paper](https://arxiv.org/abs/2508.18166)]
 * (Onerecv2) **OneRec-V2 Technical Report** arXiv 2025 [[paper](https://arxiv.org/abs/2508.20900)]
-
+* (PROMISE) **PROMISE: Process Reward Models Unlock Test-Time Scaling Laws in Generative Recommendations.** arXiv 2026. [[paper](https://arxiv.org/abs/2601.04674)]
 
 ## Star History
 
