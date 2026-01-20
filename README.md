@@ -6,7 +6,9 @@
 
 📌 Pinned
 
-#### Survey Paper: A Survey of Item Identifiers in Generative Recommendation: Construction, Alignment, and Generation [ReseachGate](https://www.researchgate.net/publication/399898960_A_Survey_of_Item_Identifiers_in_Generative_Recommendation_Construction_Alignment_and_Generation)
+#### Survey Paper: A Survey of Item Identifiers in Generative Recommendation: Construction, Alignment, and Generation
+
+[ReseachGate](https://www.researchgate.net/publication/399898960_A_Survey_of_Item_Identifiers_in_Generative_Recommendation_Construction_Alignment_and_Generation)
 
 </div>
 
