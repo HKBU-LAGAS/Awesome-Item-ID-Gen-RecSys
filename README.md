@@ -260,3 +260,6 @@
 * (Onerecv2) **OneRec-V2 Technical Report** arXiv 2025 [[paper](https://arxiv.org/abs/2508.20900)]
 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HKBU-LAGAS/Awesome-Item-ID-Gen-RecSys&type=date&legend=top-left)](https://www.star-history.com/#HKBU-LAGAS/Awesome-Item-ID-Gen-RecSys&type=date&legend=top-left)
