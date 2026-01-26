@@ -218,7 +218,7 @@
 #### Decoding Acceleration
 
 ##### Speculative Decoding (SD)
-* (SpecGR) **Inductive Generative Recommendation via Retrieval-based Speculation** arXiv 2024 [[paper](https://arxiv.org/abs/2410.02939)] [[code](https://github.com/Jamesding000/SpecGR)] ![GitHub Repo stars](https://img.shields.io/github/stars/Jamesding000/SpecGR)
+* (SpecGR) **Inductive Generative Recommendation via Retrieval-based Speculation** AAAI 2026 [[paper](https://arxiv.org/abs/2410.02939)] [[code](https://github.com/Jamesding000/SpecGR)] ![GitHub Repo stars](https://img.shields.io/github/stars/Jamesding000/SpecGR)
 * (AtSpeed) **Efficient Inference for Large Language Model-Based Generative Recommendation** ICLR 2025 [[paper](https://proceedings.iclr.cc/paper_files/paper/2025/file/e4bf5c3245fd92a4554a16af9803b757-Paper-Conference.pdf)] [[code](https://github.com/Linxyhaha/AtSpeed)] ![GitHub Repo stars](https://img.shields.io/github/stars/Linxyhaha/AtSpeed)
 * (RPG) **Generating Long Semantic Ids in Parallel for Recommendation** KDD 2025 [[paper](https://arxiv.org/abs/2506.05781)] [[code](https://github.com/facebookresearch/RPG_KDD2025)] ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/RPG_KDD2025)
 * (NEZHA) **NEZHA: A Zero-sacrifice and Hyperspeed Decoding Architecture for Generative Recommendations** arXiv 2025 [[paper](https://arxiv.org/abs/2511.18793)]
