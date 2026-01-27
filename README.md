@@ -9,7 +9,7 @@
  We are actively tracking the latest research and will keep maintaining and updating the repository. We also highly welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to create an issue or a pull request.
 #### Survey Paper: A Survey of Item Identifiers in Generative Recommendation: Construction, Alignment, and Generation
 
-[ReseachGate](https://www.researchgate.net/publication/399898960_A_Survey_of_Item_Identifiers_in_Generative_Recommendation_Construction_Alignment_and_Generation)
+[ReseachGate](https://www.researchgate.net/publication/399898960_A_Survey_of_Item_Identifiers_in_Generative_Recommendation_Construction_Alignment_and_Generation) [TechRxiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176945895.52184668/)
 
 </div>
 
