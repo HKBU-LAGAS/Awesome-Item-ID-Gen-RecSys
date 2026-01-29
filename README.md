@@ -49,7 +49,7 @@
       - [Pruned Search (PS)](#pruned-search-ps)
       - [Parallel Decoding (PD)](#parallel-decoding-pd)
       - [General Optimizations (GO)](#general-optimizations-go)
-
+  - [🗂️ Benchmarks and Datasets](#️-benchmarks-and-datasets)
 ## 📑 Paper List
 
 ### 🦄 Creation of Item IDs
@@ -263,6 +263,11 @@
 * (Onerecv2) **OneRec-V2 Technical Report** arXiv 2025 [[paper](https://arxiv.org/abs/2508.20900)]
 * (PROMISE) **PROMISE: Process Reward Models Unlock Test-Time Scaling Laws in Generative Recommendations.** arXiv 2026. [[paper](https://arxiv.org/abs/2601.04674)]
 
+### 🗂️ Benchmarks and Datasets
+* (GRID) **Generative Recommendation with Semantic IDs: A Practitioner’s Handbook** CIKM 2025. [[paper](https://arxiv.org/abs/2507.22224)] [[code](https://github.com/snap-research/GRID)] ![GitHub Repo stars](https://img.shields.io/github/stars/snap-research/GRID)
+* (FORGE) **FORGE: Forming Semantic Identifiers for Generative Retrieval in Industrial Datasets** arXiv 2025 [[paper](https://arxiv.org/abs/2509.20904)] [[code](https://github.com/selous123/al_sid)] ![GitHub Repo stars](https://img.shields.io/github/stars/selous123/al_sid)
+* (MMGRid) **MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging** arXiv 2026 [[paper](https://arxiv.org/abs/2601.15930)] [[code](https://github.com/Joinn99/MMGRid)] ![GitHub Repo stars](https://img.shields.io/github/stars/Joinn99/MMGRid)
+  
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=HKBU-LAGAS/Awesome-Item-ID-Gen-RecSys&type=date&legend=top-left)](https://www.star-history.com/#HKBU-LAGAS/Awesome-Item-ID-Gen-RecSys&type=date&legend=top-left)
