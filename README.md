@@ -109,6 +109,7 @@
 * (SEATER) **Generative Retrieval with Semantic Tree-Structured Item Identifiers via Contrastive Learning.** arXiv 2023. [[paper](https://arxiv.org/pdf/2309.13375)] [[code](https://github.com/Ethan00Si/SEATER_Generative_Retrieval)] ![GitHub Repo stars](https://img.shields.io/github/stars/Ethan00Si/SEATER_Generative_Retrieval)
 * (ColaRec) **Content-Based Collaborative Generation for Recommender Systems.** CIKM 2024. [[paper](https://arxiv.org/abs/2403.18480)][[code](https://github.com/Junewang0614/ColaRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/Junewang0614/ColaRec)
 * (EAGER) **EAGER: Two-Stream Generative Recommender with Behavior-Semantic Collaboration.** KDD 2024. [[paper](https://dl.acm.org/doi/10.1145/3637528.3671775)][[code](https://github.com/yewzz/EAGER)] ![GitHub Repo stars](https://img.shields.io/github/stars/yewzz/EAGER)
+* (MERGE) **MERGE: Next-Generation Item Indexing Paradigm for Large-Scale Streaming Recommendation** [[paper](https://arxiv.org/abs/2601.20199)]
 ##### Codebook-based Tokenizers 
 * (VQ-Rec) **Learning vector-quantized item representation for transferable sequential recommenders.** WWW 2023. [[paper](https://arxiv.org/abs/2210.12316)][[code](https://github.com/RUCAIBox/VQ-Rec)] ![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/VQ-Rec)
 * (Tiger) **Recommender Systems with Generative Retrieval.** NeurIPS 2023. [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/20dcab0f14046a5c6b02b61da9f13229-Abstract-Conference.html)] [[code](https://github.com/EdoardoBotta/RQ-VAE-Recommender)] ![GitHub Repo stars](https://img.shields.io/github/stars/EdoardoBotta/RQ-VAE-Recommender)
@@ -133,6 +134,9 @@
 * (STORE) **The Best of the Two Worlds: Harmonizing Semantic and Hash IDs for Sequential Recommendation** Arxiv 2025[[paper](https://arxiv.org/abs/2511.18805)]
 * (ReaSeq) **ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling** Arxiv 2025 [[paper](https://arxiv.org/abs/2512.21257)]
 * (HiGR) **HiGR: Efficient Generative Slate Recommendation via Hierarchical Planning and Multi-Objective Preference Alignment** [[paper](https://www.arxiv.org/abs/2512.24787)]
+* (S²GR) **S²GR: Stepwise Semantic-Guided Reasoning in Latent Space for Generative Recommendation** Arxiv 2026 [[paper](https://www.arxiv.org/abs/2601.18664)]
+* (TRM) **Farewell to Item IDs: Unlocking the Scaling Potential of Large Ranking Models via Semantic Tokens** Arxiv 2026 [[paper](https://arxiv.org/abs/2601.22694)]
+* (GR2) **Generative Reasoning Re-ranker** Arxiv 2026 [[paper](https://arxiv.org/abs/2602.07774)]
 ##### Other Tokenizers 
 * (GPTRec) **Generative Sequential Recommendation with GPTRec.** Gen-IR @ SIGIR 2023 workshop [[paper](https://arxiv.org/abs/2306.11114)]
 * (IDGenRec) **IDGenRec: LLM-RecSys Alignment with Textual ID Learning** SIGIR 2024 [[paper](https://arxiv.org/abs/2403.19021)] [[code](https://github.com/agiresearch/IDGenRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/IDGenRec)
