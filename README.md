@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Awesome Item Identification and Tokenization in Gen-RecSys 🌟</h1>
+<h1 align="center">🌟 Awesome Item Identification and Item Tokenization in Gen-RecSys 🌟</h1>
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
