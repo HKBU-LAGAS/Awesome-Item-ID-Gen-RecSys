@@ -156,6 +156,7 @@
 * (MMQ) **MMQ: Multimodal Mixture-of-Quantization Tokenization for Semantic ID Generation and User Behavioral Adaptation** WSDM 2026 [[paper](https://arxiv.org/abs/2508.15281)]
 * (MMQ-v2) **MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for Semantic IDs Learning in Recommendation** arXiv 2025 [[paper](https://arxiv.org/abs/2510.25622)]
 * (DoS) **DOS: Dual-Flow Orthogonal Semantic IDs for Recommendation in Meituan** arXiv 2026 [[paper](https://arxiv.org/abs/2602.04460)]
+* (QuaSID) **Stop Treating Collisions Equally: Qualification-Aware Semantic ID Learning for Recommendation at Industrial Scale** arXiv 2026 [[paper](https://arxiv.org/abs/2603.00632v1)]
 
 ### 👫 Alignment of Item IDs 
 #### Alignment in LLM-as-Gen-RecSys
