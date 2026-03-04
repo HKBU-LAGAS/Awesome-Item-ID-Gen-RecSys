@@ -138,6 +138,7 @@
 * (TRM) **Farewell to Item IDs: Unlocking the Scaling Potential of Large Ranking Models via Semantic Tokens** arXiv 2026 [[paper](https://arxiv.org/abs/2601.22694)]
 * (GR2) **Generative Reasoning Re-ranker** arXiv 2026 [[paper](https://arxiv.org/abs/2602.07774)]
 * (PIT) **PIT: A Dynamic Personalized Item Tokenizer for End-to-End Generative Recommendation** arXiv 2026 [[paper](https://arxiv.org/abs/2602.08530)]
+* (HiSAC) **HiSAC: Hierarchical Sparse Activation Compression for Ultra-long Sequence Modeling in Recommenders** arXiv 2026 [[paper](https://arxiv.org/html/2602.21009v1)]
 
 ##### Other Tokenizers 
 * (GPTRec) **Generative Sequential Recommendation with GPTRec.** Gen-IR @ SIGIR 2023 workshop [[paper](https://arxiv.org/abs/2306.11114)]
@@ -154,6 +155,8 @@
 * (OneSearch) **Onesearch: A preliminary exploration of the unified end-to-end generative framework for e-commerce search** arXiv 2025 [[paper](https://arxiv.org/abs/2509.03236)]
 * (MMQ) **MMQ: Multimodal Mixture-of-Quantization Tokenization for Semantic ID Generation and User Behavioral Adaptation** WSDM 2026 [[paper](https://arxiv.org/abs/2508.15281)]
 * (MMQ-v2) **MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for Semantic IDs Learning in Recommendation** arXiv 2025 [[paper](https://arxiv.org/abs/2510.25622)]
+* (DoS) **DOS: Dual-Flow Orthogonal Semantic IDs for Recommendation in Meituan** arXiv 2026 [[paper](https://arxiv.org/abs/2602.04460)]
+
 ### 👫 Alignment of Item IDs 
 #### Alignment in LLM-as-Gen-RecSys
 
@@ -185,6 +188,7 @@
 * (ETEGRec) **Generative Recommender with End-to-End Learnable Item Tokenization** SIGIR 2025 [[paper](https://arxiv.org/abs/2409.05546)] [[code](https://github.com/RUCAIBox/ETEGRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/ETEGRec)
 * (COBRA) **Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations** arXiv 2025. [[paper](https://arxiv.org/abs/2503.02453)]
 * (MMQ) **MMQ: Multimodal Mixture-of-Quantization Tokenization for Semantic ID Generation and User Behavioral Adaptation** WSDM 2026 [[paper](https://arxiv.org/abs/2508.15281)]
+* (UniSID) **End-to-End Semantic ID Generation for Generative Advertisement Recommendation** arXiv 2026 [[paper](https://arxiv.org/abs/2602.10445)]
 
 ##### Others
 * (TokenRec) **TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendations** TKDE 2025 [[paper](https://arxiv.org/abs/2406.10450)] [[code](https://github.com/Quhaoh233/TokenRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/Quhaoh233/TokenRec)
@@ -241,7 +245,8 @@
 * (FORGE) **FORGE: Forming Semantic Identifiers for Generative Retrieval in Industrial Datasets** arXiv 2025 [[paper](https://arxiv.org/abs/2509.20904)] [[code](https://github.com/selous123/al_sid)] ![GitHub Repo stars](https://img.shields.io/github/stars/selous123/al_sid)
 * (UniSearch) **UniSearch: Rethinking Search System with a Unified Generative Architecture** arXiv 2025 [[paper](https://arxiv.org/abs/2509.06887)]
 * (QARM) **QARM: Quantitative Alignment Multi-Modal Recommendation at Kuaishou** CIKM 2025 [[paper](https://arxiv.org/abs/2411.11739)]
-* (STATIC) **Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators** arXiv 2026 [[paper](https://arxiv.org/abs/2602.22647)]  [[code](https://github.com/youtube/static-constraint-decoding)] ![GitHub Repo stars](https://img.shields.io/github/stars/youtube/static-constraint-decoding)
+* (STATIC) **Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators** arXiv 2026 [[paper](https://arxiv.org/abs/2602.22647)] [[code](https://github.com/youtube/static-constraint-decoding)] ![GitHub Repo stars](https://img.shields.io/github/stars/youtube/static-constraint-decoding)
+* (DS SERVE) **DS SERVE: A Framework for Efficient and Scalable Neural Retrieval** [[paper](https://arxiv.org/abs/2602.22224v1)] [[code](github.com/Berkeley-Large-RAG/RAG-DS-Serve)]![GitHub Repo stars](https://img.shields.io/github/stars/Berkeley-Large-RAG/RAG-DS-Serve)
 
 ##### Parallel Decoding (PD)
 * (RPG) **Generating Long Semantic Ids in Parallel for Recommendation** KDD 2025 [[paper](https://arxiv.org/abs/2506.05781)] [[code](https://github.com/facebookresearch/RPG_KDD2025)] ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/RPG_KDD2025)
@@ -269,12 +274,13 @@
 * (PCR-CA) **PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation** arXiv 2025 [[paper](https://arxiv.org/abs/2508.18166)]
 * (Onerecv2) **OneRec-V2 Technical Report** arXiv 2025 [[paper](https://arxiv.org/abs/2508.20900)]
 * (PROMISE) **PROMISE: Process Reward Models Unlock Test-Time Scaling Laws in Generative Recommendations.** arXiv 2026. [[paper](https://arxiv.org/abs/2601.04674)]
-
+* (ULTRA-HSTU) **Bending the Scaling Law Curve in Large-Scale Recommendation Systems** arXiv 2026. [[paper](https://arxiv.org/abs/2602.16986)]
+* (GEMs) **GEMs：Breaking the Long-Sequence Barrier in Generative Recommendation with a Multi-Stream Decoder** arXiv 2026 [[paper](https://arxiv.org/abs/2602.13631)]
 ### 🗂️ Benchmarks and Datasets
 * (GRID) **Generative Recommendation with Semantic IDs: A Practitioner’s Handbook** CIKM 2025. [[paper](https://arxiv.org/abs/2507.22224)] [[code](https://github.com/snap-research/GRID)] ![GitHub Repo stars](https://img.shields.io/github/stars/snap-research/GRID)
 * (FORGE) **FORGE: Forming Semantic Identifiers for Generative Retrieval in Industrial Datasets** arXiv 2025 [[paper](https://arxiv.org/abs/2509.20904)] [[code](https://github.com/selous123/al_sid)] ![GitHub Repo stars](https://img.shields.io/github/stars/selous123/al_sid)
 * (MMGRid) **MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging** arXiv 2026 [[paper](https://arxiv.org/abs/2601.15930)] [[code](https://github.com/Joinn99/MMGRid)] ![GitHub Repo stars](https://img.shields.io/github/stars/Joinn99/MMGRid)
-  
+* (IntTravel) **INTTRAVEL: A REAL-WORLD DATASET AND GENERATIVE FRAMEWORK FOR INTEGRATED MULTI-TASK TRAVEL RECOMMENDATION**  arXiv 2026 [[paper](https://arxiv.org/pdf/2602.11664)] [[code](https://github.com/AMAP-ML/IntTravel)] ![GitHub Repo stars](https://img.shields.io/github/stars/AMAP-ML/IntTravel)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=HKBU-LAGAS/Awesome-Item-ID-Gen-RecSys&type=date&legend=top-left)](https://www.star-history.com/#HKBU-LAGAS/Awesome-Item-ID-Gen-RecSys&type=date&legend=top-left)
