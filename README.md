@@ -139,7 +139,8 @@
 * (GR2) **Generative Reasoning Re-ranker** arXiv 2026 [[paper](https://arxiv.org/abs/2602.07774)]
 * (PIT) **PIT: A Dynamic Personalized Item Tokenizer for End-to-End Generative Recommendation** arXiv 2026 [[paper](https://arxiv.org/abs/2602.08530)]
 * (HiSAC) **HiSAC: Hierarchical Sparse Activation Compression for Ultra-long Sequence Modeling in Recommenders** arXiv 2026 [[paper](https://arxiv.org/html/2602.21009v1)]
-
+* (RQ-GMM) **RQ-GMM: Residual Quantized Gaussian Mixture Model for
+Multimodal Semantic Discretization in CTR Prediction** arXiv 2026 [[paper](https://arxiv.org/abs/2602.12593)]
 ##### Other Tokenizers 
 * (GPTRec) **Generative Sequential Recommendation with GPTRec.** Gen-IR @ SIGIR 2023 workshop [[paper](https://arxiv.org/abs/2306.11114)]
 * (IDGenRec) **IDGenRec: LLM-RecSys Alignment with Textual ID Learning** SIGIR 2024 [[paper](https://arxiv.org/abs/2403.19021)] [[code](https://github.com/agiresearch/IDGenRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/IDGenRec)
