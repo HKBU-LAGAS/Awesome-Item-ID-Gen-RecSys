@@ -191,6 +191,7 @@ Multimodal Semantic Discretization in CTR Prediction** arXiv 2026 [[paper](https
 * (COBRA) **Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations** arXiv 2025. [[paper](https://arxiv.org/abs/2503.02453)]
 * (MMQ) **MMQ: Multimodal Mixture-of-Quantization Tokenization for Semantic ID Generation and User Behavioral Adaptation** WSDM 2026 [[paper](https://arxiv.org/abs/2508.15281)]
 * (UniSID) **End-to-End Semantic ID Generation for Generative Advertisement Recommendation** arXiv 2026 [[paper](https://arxiv.org/abs/2602.10445)]
+* (DGI) **Differentiable Geometric Indexing for End-to-End Generative Retrieval** arXiv 2026 [[paper](https://arxiv.org/abs/2603.10409)]
 
 ##### Others
 * (TokenRec) **TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendations** TKDE 2025 [[paper](https://arxiv.org/abs/2406.10450)] [[code](https://github.com/Quhaoh233/TokenRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/Quhaoh233/TokenRec)
