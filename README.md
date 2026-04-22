@@ -192,7 +192,7 @@ Multimodal Semantic Discretization in CTR Prediction** arXiv 2026 [[paper](https
 * (MMQ) **MMQ: Multimodal Mixture-of-Quantization Tokenization for Semantic ID Generation and User Behavioral Adaptation** WSDM 2026 [[paper](https://arxiv.org/abs/2508.15281)]
 * (UniSID) **End-to-End Semantic ID Generation for Generative Advertisement Recommendation** arXiv 2026 [[paper](https://arxiv.org/abs/2602.10445)]
 * (DGI) **Differentiable Geometric Indexing for End-to-End Generative Retrieval** arXiv 2026 [[paper](https://arxiv.org/abs/2603.10409)]
-
+* (SID-to-Item) **Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices** arXiv 2026 [[paper](https://arxiv.org/abs/2604.03949)] [[code](https://github.com/snap-research/GRID)] ![GitHub Repo stars](https://img.shields.io/github/stars/snap-research/GRID)
 ##### Others
 * (TokenRec) **TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendations** TKDE 2025 [[paper](https://arxiv.org/abs/2406.10450)] [[code](https://github.com/Quhaoh233/TokenRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/Quhaoh233/TokenRec)
 * (BBQRec) **BBQRec: Behavior-Bind Quantization for Multi-Modal Sequential Recommendation** arXiv 2025. [[paper](https://arxiv.org/abs/2504.06636)]
@@ -284,6 +284,7 @@ Multimodal Semantic Discretization in CTR Prediction** arXiv 2026 [[paper](https
 * (FORGE) **FORGE: Forming Semantic Identifiers for Generative Retrieval in Industrial Datasets** arXiv 2025 [[paper](https://arxiv.org/abs/2509.20904)] [[code](https://github.com/selous123/al_sid)] ![GitHub Repo stars](https://img.shields.io/github/stars/selous123/al_sid)
 * (MMGRid) **MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging** arXiv 2026 [[paper](https://arxiv.org/abs/2601.15930)] [[code](https://github.com/Joinn99/MMGRid)] ![GitHub Repo stars](https://img.shields.io/github/stars/Joinn99/MMGRid)
 * (IntTravel) **INTTRAVEL: A REAL-WORLD DATASET AND GENERATIVE FRAMEWORK FOR INTEGRATED MULTI-TASK TRAVEL RECOMMENDATION**  arXiv 2026 [[paper](https://arxiv.org/pdf/2602.11664)] [[code](https://github.com/AMAP-ML/IntTravel)] ![GitHub Repo stars](https://img.shields.io/github/stars/AMAP-ML/IntTravel)
+* (SID-to-Item) **Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices** arXiv 2026 [[paper](https://arxiv.org/abs/2604.03949)] [[code](https://github.com/snap-research/GRID)] ![GitHub Repo stars](https://img.shields.io/github/stars/snap-research/GRID)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=HKBU-LAGAS/Awesome-Item-ID-Gen-RecSys&type=date&legend=top-left)](https://www.star-history.com/#HKBU-LAGAS/Awesome-Item-ID-Gen-RecSys&type=date&legend=top-left)
