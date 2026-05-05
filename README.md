@@ -13,7 +13,17 @@
 
 </div>
 
-
+```
+@article{doi:10.36227/techrxiv.176945895.52184668/v1,
+ author = {Taiyan Zhang  and Hongtao Wang  and Yunqian Fan  and Kunda Yang  and Jichuan Zeng  and Renchi Yang },
+ title = {A Survey of Item Identifiers in Generative Recommendation: Construction, Alignment, and Generation},
+ journal = {TechRxiv},
+ volume = {2026},
+ number = {0126},
+ year = {2026},
+ doi = {10.36227/techrxiv.176945895.52184668/v1},
+}
+```
 
 ## Contents
 
