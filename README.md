@@ -295,6 +295,7 @@ Multimodal Semantic Discretization in CTR Prediction** arXiv 2026 [[paper](https
 * (MMGRid) **MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging** arXiv 2026 [[paper](https://arxiv.org/abs/2601.15930)] [[code](https://github.com/Joinn99/MMGRid)] ![GitHub Repo stars](https://img.shields.io/github/stars/Joinn99/MMGRid)
 * (IntTravel) **INTTRAVEL: A REAL-WORLD DATASET AND GENERATIVE FRAMEWORK FOR INTEGRATED MULTI-TASK TRAVEL RECOMMENDATION**  arXiv 2026 [[paper](https://arxiv.org/pdf/2602.11664)] [[code](https://github.com/AMAP-ML/IntTravel)] ![GitHub Repo stars](https://img.shields.io/github/stars/AMAP-ML/IntTravel)
 * (SID-to-Item) **Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices** arXiv 2026 [[paper](https://arxiv.org/abs/2604.03949)] [[code](https://github.com/snap-research/GRID)] ![GitHub Repo stars](https://img.shields.io/github/stars/snap-research/GRID)
+* (BLaIR) **Bridging Language and Items for Retrieval and Recommendation:  Benchmarking LLMs as Semantic Encoders** ACL 2026 [[paper](https://arxiv.org/pdf/2403.03952)] [[code](https://github.com/hyp1231/BLaIR-Bench)] ![GitHub Repo stars](https://img.shields.io/github/stars/hyp1231/BLaIR-Bench)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=HKBU-LAGAS/Awesome-Item-ID-Gen-RecSys&type=date&legend=top-left)](https://www.star-history.com/#HKBU-LAGAS/Awesome-Item-ID-Gen-RecSys&type=date&legend=top-left)
