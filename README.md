@@ -203,6 +203,7 @@ Multimodal Semantic Discretization in CTR Prediction** arXiv 2026 [[paper](https
 * (UniSID) **End-to-End Semantic ID Generation for Generative Advertisement Recommendation** arXiv 2026 [[paper](https://arxiv.org/abs/2602.10445)]
 * (DGI) **Differentiable Geometric Indexing for End-to-End Generative Retrieval** arXiv 2026 [[paper](https://arxiv.org/abs/2603.10409)]
 * (SID-to-Item) **Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices** arXiv 2026 [[paper](https://arxiv.org/abs/2604.03949)] [[code](https://github.com/snap-research/GRID)] ![GitHub Repo stars](https://img.shields.io/github/stars/snap-research/GRID)
+* (CapsID) **CapsID: Soft-Routed Variable-Length Semantic IDs for Generative Recommendation** arXiv 2026. [[paper](https://arxiv.org/abs/2605.05096)]
 ##### Others
 * (TokenRec) **TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendations** TKDE 2025 [[paper](https://arxiv.org/abs/2406.10450)] [[code](https://github.com/Quhaoh233/TokenRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/Quhaoh233/TokenRec)
 * (BBQRec) **BBQRec: Behavior-Bind Quantization for Multi-Modal Sequential Recommendation** arXiv 2025. [[paper](https://arxiv.org/abs/2504.06636)]
@@ -238,6 +239,7 @@ Multimodal Semantic Discretization in CTR Prediction** arXiv 2026 [[paper](https
 * (DiscRec) **DiscRec: Disentangled Semantic-Collaborative Modeling for Generative Recommendation.** arXiv 2025. [[paper](https://arxiv.org/pdf/2506.15576)] [[code](https://github.com/Ten-Mao/DiscRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/Ten-Mao/DiscRec)
 * (HiD-VAE) **HiD-VAE: Interpretable Generative Recommendation via Hierarchical and Disentangled Semantic IDs.** arXiv 2025. [[paper](https://arxiv.org/pdf/2508.04618)]
 * (PROMISE) **PROMISE: Process Reward Models Unlock Test-Time Scaling Laws in Generative Recommendations.** arXiv 2026. [[paper](https://arxiv.org/abs/2601.04674)]
+* (Latte) **Expressiveness Limits of Autoregressive Semantic ID Generation in Generative Recommendation** arXiv 2026 [[paper](https://arxiv.org/abs/2605.06331)][[code](https://github.com/hyp1231/Latte)] ![GitHub Repo stars](https://img.shields.io/github/stars/hyp1231/Latte)
 #### Decoding Acceleration
 
 ##### Speculative Decoding (SD)
