@@ -182,6 +182,7 @@ Multimodal Semantic Discretization in CTR Prediction** arXiv 2026 [[paper](https
 * (EAGER-LLM) **EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration.** WWW 2025. [[paper](https://dl.acm.org/doi/10.1145/3696410.3714933)]
 * (CoLLM) **CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation.** TKDE 2025. [[paper](https://dl.acm.org/doi/10.1109/TKDE.2025.3540912)] [[code](https://github.com/zyang1580/CoLLM)] [![GitHub stars](https://img.shields.io/github/stars/zyang1580/CoLLM?style=social)](https://github.com/zyang1580/CoLLM)
 * (Align³GR) **Align³GR: Unified Multi-Level Alignment for LLM-based Generative Recommendation.** AAAI 2026. [[paper](https://arxiv.org/abs/2511.11255)]
+* (DECOR) **Learning Decomposed Contextual Token Representations from Pretrained and Collaborative Signals for Generative Recommendation** SIGIR 2026. [[paper](http://arxiv.org/pdf/2509.10468)] [[code](https://github.com/yliuaa/DECOR)] [![GitHub stars](https://img.shields.io/github/stars/yliuaa/DECOR?style=social)](https://github.com/yliuaa/DECOR)
 
 ##### Multi-Modal Alignment
 * (I-LLMRec) **Image is All You Need: Towards Efficient and Effective Large Language Model-based Recommender Systems.** arXiv 2025. [[paper](https://arxiv.org/abs/2503.06238)] [[code](https://github.com/rlqja1107/torch-I-LLMRec)] [![GitHub stars](https://img.shields.io/github/stars/rlqja1107/torch-I-LLMRec?style=social)](https://github.com/rlqja1107/torch-I-LLMRec)
