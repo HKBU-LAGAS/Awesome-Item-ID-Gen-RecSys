@@ -241,6 +241,7 @@ Multimodal Semantic Discretization in CTR Prediction** arXiv 2026 [[paper](https
 * (HiD-VAE) **HiD-VAE: Interpretable Generative Recommendation via Hierarchical and Disentangled Semantic IDs.** arXiv 2025. [[paper](https://arxiv.org/pdf/2508.04618)]
 * (PROMISE) **PROMISE: Process Reward Models Unlock Test-Time Scaling Laws in Generative Recommendations.** arXiv 2026. [[paper](https://arxiv.org/abs/2601.04674)]
 * (Latte) **Expressiveness Limits of Autoregressive Semantic ID Generation in Generative Recommendation** arXiv 2026 [[paper](https://arxiv.org/abs/2605.06331)][[code](https://github.com/hyp1231/Latte)] ![GitHub Repo stars](https://img.shields.io/github/stars/hyp1231/Latte)
+* (DualGR) **DualGR: Generative Retrieval with Long and Short-Term  Interests Modeling** WWW 2026 [[paper](https://arxiv.org/abs/2511.12518)]
 #### Decoding Acceleration
 
 ##### Speculative Decoding (SD)
