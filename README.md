@@ -208,6 +208,7 @@ Multimodal Semantic Discretization in CTR Prediction** arXiv 2026 [[paper](https
 ##### Others
 * (TokenRec) **TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendations** TKDE 2025 [[paper](https://arxiv.org/abs/2406.10450)] [[code](https://github.com/Quhaoh233/TokenRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/Quhaoh233/TokenRec)
 * (BBQRec) **BBQRec: Behavior-Bind Quantization for Multi-Modal Sequential Recommendation** arXiv 2025. [[paper](https://arxiv.org/abs/2504.06636)]
+* (PrefixMem) **LLMs Need Encoders for Semantic IDs Too.** arXiv 2026. [[paper](https://arxiv.org/abs/2606.00324)]
 
 ### 🔮 Generation of Next Item IDs
 
@@ -229,7 +230,8 @@ Multimodal Semantic Discretization in CTR Prediction** arXiv 2026 [[paper](https
 ##### Post-Grounding (PG)
 * (BIGRec) **A Bi-step Grounding Paradigm for Large Language Models in Recommendation Systems.** TORS 2025. [[paper](https://dl.acm.org/doi/10.1145/3716393)] [[code](https://github.com/SAI990323/BIGRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/SAI990323/BIGRec)
 * (SETRec) **Order-Agnostic Identifier for Large Language Model-based Generative Recommendation.** SIGIR 2025. [[paper](https://dl.acm.org/doi/10.1145/3726302.3730053)] [[code](https://github.com/Linxyhaha/SETRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/Linxyhaha/SETRec)
-
+* (Gryphon) **Gryphon: A Unified Architecture for Semantic-ID Generation and Item-Level Scoring in Industrial Recommendations.** arXiv 2026. [[paper](https://arxiv.org/pdf/2606.08604)]
+  
 ##### Constrained Decoding (CD)
 * (CID) **How to Index Item IDs for Recommendation Foundation Models.** SIGIR 2023. [[paper](https://arxiv.org/pdf/2305.06569)] [[code](https://github.com/Wenyueh/LLM-RecSys-ID)] ![GitHub Repo stars](https://img.shields.io/github/stars/Wenyueh/LLM-RecSys-ID)
 * (SEATER) **Generative Retrieval with Semantic Tree-Structured Item Identifiers via Contrastive Learning.** arXiv 2023. [[paper](https://arxiv.org/pdf/2309.13375)] [[code](https://github.com/Ethan00Si/SEATER_Generative_Retrieval)] ![GitHub Repo stars](https://img.shields.io/github/stars/Ethan00Si/SEATER_Generative_Retrieval)
@@ -300,6 +302,7 @@ Multimodal Semantic Discretization in CTR Prediction** arXiv 2026 [[paper](https
 * (IntTravel) **INTTRAVEL: A REAL-WORLD DATASET AND GENERATIVE FRAMEWORK FOR INTEGRATED MULTI-TASK TRAVEL RECOMMENDATION**  arXiv 2026 [[paper](https://arxiv.org/pdf/2602.11664)] [[code](https://github.com/AMAP-ML/IntTravel)] ![GitHub Repo stars](https://img.shields.io/github/stars/AMAP-ML/IntTravel)
 * (SID-to-Item) **Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices** arXiv 2026 [[paper](https://arxiv.org/abs/2604.03949)] [[code](https://github.com/snap-research/GRID)] ![GitHub Repo stars](https://img.shields.io/github/stars/snap-research/GRID)
 * (BLaIR) **Bridging Language and Items for Retrieval and Recommendation:  Benchmarking LLMs as Semantic Encoders** ACL 2026 [[paper](https://arxiv.org/pdf/2403.03952)] [[code](https://github.com/hyp1231/BLaIR-Bench)] ![GitHub Repo stars](https://img.shields.io/github/stars/hyp1231/BLaIR-Bench)
+* **How Reliable Are Semantic-ID Tokenizer Comparisons in Generative Recommendation?** arXiv 2026. [[paper](https://arxiv.org/abs/2605.25330)]
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=HKBU-LAGAS/Awesome-Item-ID-Gen-RecSys&type=date&legend=top-left)](https://www.star-history.com/#HKBU-LAGAS/Awesome-Item-ID-Gen-RecSys&type=date&legend=top-left)
