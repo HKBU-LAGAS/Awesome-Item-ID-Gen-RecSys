@@ -205,6 +205,7 @@ Multimodal Semantic Discretization in CTR Prediction** arXiv 2026 [[paper](https
 * (DGI) **Differentiable Geometric Indexing for End-to-End Generative Retrieval** arXiv 2026 [[paper](https://arxiv.org/abs/2603.10409)]
 * (SID-to-Item) **Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices** arXiv 2026 [[paper](https://arxiv.org/abs/2604.03949)] [[code](https://github.com/snap-research/GRID)] ![GitHub Repo stars](https://img.shields.io/github/stars/snap-research/GRID)
 * (CapsID) **CapsID: Soft-Routed Variable-Length Semantic IDs for Generative Recommendation** arXiv 2026. [[paper](https://arxiv.org/abs/2605.05096)]
+* (DIGER) **DIGER: Differentiable Semantic ID for Generative Recommendation** SIGIR 2026 [[paper]( https://dl.acm.org/doi/10.1145/3805712.3809641)] [[code](https://github.com/junchen-fu/DIGER)] ![GitHub Repo stars](https://img.shields.io/github/stars/junchen-fu/DIGER)
 ##### Others
 * (TokenRec) **TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendations** TKDE 2025 [[paper](https://arxiv.org/abs/2406.10450)] [[code](https://github.com/Quhaoh233/TokenRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/Quhaoh233/TokenRec)
 * (BBQRec) **BBQRec: Behavior-Bind Quantization for Multi-Modal Sequential Recommendation** arXiv 2025. [[paper](https://arxiv.org/abs/2504.06636)]
