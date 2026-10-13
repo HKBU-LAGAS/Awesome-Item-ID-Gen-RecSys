@@ -84,7 +84,8 @@
 *   (LLaRA) **LLaRA: Large Language-Recommendation Assistant.** SIGIR 2024. [[paper](https://dl.acm.org/doi/10.1145/3626772.3657690)][[code](https://github.com/ljy0ustc/LLaRA)]![GitHub Repo stars](https://img.shields.io/github/stars/ljy0ustc/LLaRA)
 *   (BIGRec) **A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems.** TORS 2025. [[paper](https://dl.acm.org/doi/10.1145/3716393)][[code](https://github.com/SAI990323/BIGRec)]![GitHub Repo stars](https://img.shields.io/github/stars/SAI990323/BIGRec)
 *   (Instruct-Rec) **Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach.** TOIS 2025. [[paper](https://dl.acm.org/doi/10.1145/3708882)]
-  
+*   (GRLM) **Unleashing the Native Recommendation Potential: LLM-Based Generative Recommendation via Structured Term Identifiers.** ACL Findings 2026. [[paper](https://aclanthology.org/2026.findings-acl.984/)]
+*   
 ##### Multi-facet IDs
 
 * (Chat-REC) **Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System.** arXiv 2023. [[paper](https://arxiv.org/abs/2303.14524)]
@@ -95,7 +96,8 @@
 * (GNPR-SID) **Generative next POI Recommendation with Semantic ID** KDD 2025. [[paper](https://arxiv.org/abs/2506.01375)][[code](https://github.com/wds1996/GNPR-SID)]![GitHub Repo stars](https://img.shields.io/github/stars/wds1996/GNPR-SID)
 * (CoLLM) **CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation.** TKDE 2025. [[paper](https://dl.acm.org/doi/10.1109/TKDE.2025.3540912)] [[code](https://github.com/zyang1580/CoLLM)]![GitHub Repo stars](https://img.shields.io/github/stars/zyang1580/CoLLM)
 * (URM) **Large Language Model as Universal Retriever in Industrial-Scale Recommender System.** arXiv 2025. [[paper](https://arxiv.org/abs/2502.03041)]
-
+* (ISRF) **Iterative Semantic Reasoning from Individual to Group Interests for Generative Recommendation with LLMs.** WWW 2026. [[paper](https://arxiv.org/abs/2603.13934)] [[code](https://github.com/htired/ISRF)] ![GitHub Repo stars](https://img.shields.io/github/stars/htired/ISRF)
+* (NEO) **A Unified Model for Personalization: Language-Steerable Generative Recommendation, Search, and User Understanding.** KDD 2026. [[paper](https://dl.acm.org/doi/10.1145/3770855.3817955)]
 
 
 ##### Semantic IDs
@@ -141,7 +143,7 @@
 * (PSRQ) **Progressive Semantic Residual Quantization for Multimodal-Joint Interest Modeling in Music Recommendation** CIKM 2025 [[paper](https://arxiv.org/abs/2508.20359)]
 * (OneSearch) **Onesearch: A preliminary exploration of the unified end-to-end generative framework for e-commerce search** arXiv 2025 [[paper](https://arxiv.org/abs/2509.03236)]
 * (MMQ-v2) **MMQ-v2: Align, Denoise, and Amplify: Adaptive Behavior Mining for Semantic IDs Learning in Recommendation** arXiv 2025 [[paper](https://arxiv.org/abs/2510.25622)]
-* (STORE) **The Best of the Two Worlds: Harmonizing Semantic and Hash IDs for Sequential Recommendation** arXiv 2025[[paper](https://arxiv.org/abs/2511.18805)]
+* (STORE) **STORE: Semantic Tokenization, Orthogonal Rotation and Efficient Attention for Scaling Up Ranking Models.** arXiv 2025. [[paper](https://arxiv.org/abs/2511.18805)]
 * (ReaSeq) **ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling** arXiv 2025 [[paper](https://arxiv.org/abs/2512.21257)]
 * (HiGR) **HiGR: Efficient Generative Slate Recommendation via Hierarchical Planning and Multi-Objective Preference Alignment** [[paper](https://www.arxiv.org/abs/2512.24787)]
 * (S²GR) **S²GR: Stepwise Semantic-Guided Reasoning in Latent Space for Generative Recommendation** arXiv 2026 [[paper](https://www.arxiv.org/abs/2601.18664)]
@@ -151,6 +153,8 @@
 * (HiSAC) **HiSAC: Hierarchical Sparse Activation Compression for Ultra-long Sequence Modeling in Recommenders** arXiv 2026 [[paper](https://arxiv.org/html/2602.21009v1)]
 * (RQ-GMM) **RQ-GMM: Residual Quantized Gaussian Mixture Model for
 Multimodal Semantic Discretization in CTR Prediction** arXiv 2026 [[paper](https://arxiv.org/abs/2602.12593)]
+* (H²Rec) **The Best of Both Worlds: Harmonizing Semantic and Hash IDs for Sequential Recommendation.** KDD 2026. [[paper](https://dl.acm.org/doi/10.1145/3770855.3818490)]
+
 ##### Other Tokenizers 
 * (GPTRec) **Generative Sequential Recommendation with GPTRec.** Gen-IR @ SIGIR 2023 workshop [[paper](https://arxiv.org/abs/2306.11114)]
 * (IDGenRec) **IDGenRec: LLM-RecSys Alignment with Textual ID Learning** SIGIR 2024 [[paper](https://arxiv.org/abs/2403.19021)] [[code](https://github.com/agiresearch/IDGenRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/IDGenRec)
@@ -195,7 +199,8 @@ Multimodal Semantic Discretization in CTR Prediction** arXiv 2026 [[paper](https
 * (MBGen) **Multi-Behavior Generative Recommendation** CIKM 2024 [[paper](https://arxiv.org/abs/2405.16871)] [[code](https://github.com/anananan116/MBGen)] ![GitHub Repo stars](https://img.shields.io/github/stars/anananan116/MBGen)
 * (Eager) **Eager: Two-stream Generative Recommender with Behavior-semantic Collaboration** KDD 2024. [[paper](https://arxiv.org/abs/2406.14017)]
 * (SemanticConvergence) **Semantic Convergence: Harmonizing Recommender Systems via Two-stage Alignment and Behavioral Semantic Tokenization** AAAI 2025 [[paper](https://arxiv.org/abs/2412.13771)]
-
+* (SIDReasoner) **Reasoning over Semantic IDs Enhances Generative Recommendation.** KDD 2026. [[paper](https://dl.acm.org/doi/10.1145/3770855.3818122)] [[code](https://github.com/HappyPointer/SIDReasoner)] ![GitHub Repo stars](https://img.shields.io/github/stars/HappyPointer/SIDReasoner)
+  
 ##### Joint Training
 * (IDGenRec) **IDGenRec: LLM-RecSys Alignment with Textual ID Learning** SIGIR 2024 [[paper](https://arxiv.org/abs/2403.19021)] [[code](https://github.com/agiresearch/IDGenRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/IDGenRec)
 * (ETEGRec) **Generative Recommender with End-to-End Learnable Item Tokenization** SIGIR 2025 [[paper](https://arxiv.org/abs/2409.05546)] [[code](https://github.com/RUCAIBox/ETEGRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/ETEGRec)
@@ -267,7 +272,8 @@ Multimodal Semantic Discretization in CTR Prediction** arXiv 2026 [[paper](https
 * (QARM) **QARM: Quantitative Alignment Multi-Modal Recommendation at Kuaishou** CIKM 2025 [[paper](https://arxiv.org/abs/2411.11739)]
 * (STATIC) **Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators** arXiv 2026 [[paper](https://arxiv.org/abs/2602.22647)] [[code](https://github.com/youtube/static-constraint-decoding)] ![GitHub Repo stars](https://img.shields.io/github/stars/youtube/static-constraint-decoding)
 * (DS SERVE) **DS SERVE: A Framework for Efficient and Scalable Neural Retrieval** [[paper](https://arxiv.org/abs/2602.22224v1)] [[code](github.com/Berkeley-Large-RAG/RAG-DS-Serve)]![GitHub Repo stars](https://img.shields.io/github/stars/Berkeley-Large-RAG/RAG-DS-Serve)
-
+* (APAO) **APAO: Bridging the Training-Inference Gap in Generative Recommendation via Adaptive Prefix-Aware Optimization.** KDD 2026. [[paper](https://dl.acm.org/doi/10.1145/3770855.3818052)] [[code](https://github.com/yuyq18/APAO)] ![GitHub Repo stars](https://img.shields.io/github/stars/yuyq18/APAO)
+  
 ##### Parallel Decoding (PD)
 * (RPG) **Generating Long Semantic Ids in Parallel for Recommendation** KDD 2025 [[paper](https://arxiv.org/abs/2506.05781)] [[code](https://github.com/facebookresearch/RPG_KDD2025)] ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/RPG_KDD2025)
 * (SETRec) **Order-Agnostic Identifier for Large Language Model-based Generative Recommendation** SIGIR 2025 [[paper](https://arxiv.org/abs/2502.10833)] [[code](https://github.com/Linxyhaha/SETRec)] ![GitHub Repo stars](https://img.shields.io/github/stars/Linxyhaha/SETRec)
