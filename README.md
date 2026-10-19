@@ -310,6 +310,7 @@ Multimodal Semantic Discretization in CTR Prediction** arXiv 2026 [[paper](https
 * (SID-to-Item) **Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices** arXiv 2026 [[paper](https://arxiv.org/abs/2604.03949)] [[code](https://github.com/snap-research/GRID)] ![GitHub Repo stars](https://img.shields.io/github/stars/snap-research/GRID)
 * (BLaIR) **Bridging Language and Items for Retrieval and Recommendation:  Benchmarking LLMs as Semantic Encoders** ACL 2026 [[paper](https://arxiv.org/pdf/2403.03952)] [[code](https://github.com/hyp1231/BLaIR-Bench)] ![GitHub Repo stars](https://img.shields.io/github/stars/hyp1231/BLaIR-Bench)
 * **How Reliable Are Semantic-ID Tokenizer Comparisons in Generative Recommendation?** arXiv 2026. [[paper](https://arxiv.org/abs/2605.25330)]
+* (SIDInspector) **SIDInspector: A Mapping-First Diagnostic Resource for Semantic-ID Tokenizers** CIKM 2026 [[paper](https://arxiv.org/abs/2606.10375)] [[code](https://github.com/jdding/sidinspector)] ![GitHub Repo stars](https://img.shields.io/github/stars/jdding/sidinspector)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=HKBU-LAGAS/Awesome-Item-ID-Gen-RecSys&type=date&legend=top-left)](https://www.star-history.com/#HKBU-LAGAS/Awesome-Item-ID-Gen-RecSys&type=date&legend=top-left)
